@@ -1,0 +1,147 @@
+Act as a world-class creative director, senior UI/UX designer, conversion strategist, and front-end engineer.
+
+Your task is to design and generate a premium, modern, high-converting landing page for a home appliance repair service.
+
+IMPORTANT CONTEXT:
+
+* The business operates in the USA.
+* The target audience is Ukrainian-speaking homeowners and renters living in the USA.
+* ALL visible UI content MUST be in Ukrainian only.
+* Do NOT mix Ukrainian with Russian or English in UI text.
+* English is allowed ONLY for real US data like phone format, city/state names, address.
+
+MAIN GOAL:
+Create a landing page that feels premium, modern (2026-level), emotionally intelligent, and conversion-focused.
+It must NOT look like a cheap repair template.
+
+CORE STRATEGY:
+
+* Follow AIDA (Attention → Interest → Desire → Action)
+* Focus on real user stress and emotional triggers
+* Reduce anxiety and build trust fast
+* Make booking feel safe and easy
+
+EMOTIONAL TRIGGERS TO ADDRESS:
+
+* refrigerator stopped cooling → food may spoil
+* washer broken → daily routine disrupted
+* oven broken before cooking
+* dishwasher leaking
+* fear of overpaying
+* fear of letting unknown technician into home
+* need for fast, honest, reliable help
+
+VISUAL DIRECTION:
+
+* premium, minimal, elegant design
+* strong typography hierarchy
+* lots of white space
+* soft shadows, glassmorphism, subtle gradients
+* layered depth and lighting
+* smooth micro-animations (hover, reveal, glow, floating elements)
+* NO cheap gradients, NO neon, NO clutter
+
+ANTI-GENERIC RULES:
+DO NOT:
+
+* use cliché handyman visuals (wrench, screwdriver, etc.)
+* use boring layouts
+* use generic phrases like “we provide best service”
+* create cluttered UI
+* create outdated cards
+* create template-looking sections
+
+HERO REQUIREMENTS:
+
+* strong emotional headline in Ukrainian
+* premium typography (large, bold, elegant)
+* layered background (glow / gradient / depth)
+* subtle animation (floating, blur, light)
+* clear CTA (above the fold)
+* trust indicators
+* must feel visually impressive and different
+
+SECTIONS REQUIRED:
+
+1. Header (sticky, modern nav, CTA)
+2. Hero (very strong visual + emotional)
+3. Services (at least 5, scenario-based, not generic)
+4. Why choose us (trust-driven)
+5. How it works (simple steps)
+6. Testimonials (real-feel, emotional)
+7. FAQ (for SEO + objections)
+8. Booking form (premium UI + validation)
+9. Footer (trust, contacts, service area)
+
+OPTIONAL BUT ENCOURAGED:
+
+* animated background elements
+* soft glow lighting effects
+* glass panels
+* depth layers
+* scroll reveal animations
+
+FORM REQUIREMENTS:
+Fields:
+
+* Ім’я
+* Телефон
+* Опис проблеми
+
+Validation:
+
+* all fields required
+* realistic US phone validation
+* meaningful problem description
+* Ukrainian error messages
+* polished success state
+
+SEO REQUIREMENTS:
+
+* semantic HTML5
+* proper heading hierarchy
+* meta title (Ukrainian)
+* meta description (Ukrainian)
+* Open Graph tags
+* JSON-LD schema (RepairService + FAQPage)
+* internal anchors
+* alt attributes
+
+TECH REQUIREMENTS:
+
+* output ONE complete HTML file
+* include HTML + CSS + JS in ONE file
+* no React
+* no frameworks
+* no external dependencies
+* mobile-first responsive
+* clean structured code
+* CSS variables
+* smooth animations but performant
+
+VISUAL / INTERACTION REQUIREMENTS:
+
+* hover animations
+* scroll reveal effects
+* micro-interactions on buttons
+* soft motion (not aggressive)
+* premium feel like SaaS product
+
+COPYWRITING REQUIREMENTS:
+
+* natural Ukrainian
+* empathetic tone
+* no robotic language
+* no filler
+* emotionally persuasive but calm and trustworthy
+
+OUTPUT FORMAT:
+
+1. Brief creative direction summary
+2. AIDA explanation (how each section works)
+3. Self-critique (5 generic mistakes + how avoided)
+4. Then output ONE COMPLETE HTML FILE inside a code block
+
+FINAL QUALITY BAR:
+This must look like a premium 2026 landing page for a real business,
+NOT like a template, NOT like a beginner project, NOT generic.
